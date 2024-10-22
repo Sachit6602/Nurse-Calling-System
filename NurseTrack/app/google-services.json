@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "385994228086",
+    "firebase_url": "https://nurse1-ee405-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nurse1-ee405",
+    "storage_bucket": "nurse1-ee405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385994228086:android:3ac602d3c1089e21d0fa57",
+        "android_client_info": {
+          "package_name": "com.elpmaxe.nursecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385994228086-v4pchk29hfvdkc3b6eur61vu0ebmente.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oco8gcEYf1XRE1_QSAUsvXaZuckdF3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385994228086-v4pchk29hfvdkc3b6eur61vu0ebmente.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385994228086:android:b1e749955d25fd77d0fa57",
+        "android_client_info": {
+          "package_name": "com.example.nursecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385994228086-v4pchk29hfvdkc3b6eur61vu0ebmente.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oco8gcEYf1XRE1_QSAUsvXaZuckdF3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385994228086-v4pchk29hfvdkc3b6eur61vu0ebmente.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385994228086:android:10dfad7187e44115d0fa57",
+        "android_client_info": {
+          "package_name": "com.example.nursetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385994228086-v4pchk29hfvdkc3b6eur61vu0ebmente.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oco8gcEYf1XRE1_QSAUsvXaZuckdF3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385994228086-v4pchk29hfvdkc3b6eur61vu0ebmente.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
