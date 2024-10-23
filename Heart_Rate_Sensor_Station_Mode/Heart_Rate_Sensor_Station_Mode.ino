@@ -11,8 +11,8 @@
 #define ON_Board_LED 2  //--> Defining an On Board LED (GPIO2 = D4), used for indicators when the process of connecting to a wifi router and when there is a client request.
 
 //----------------------------------------SSID and Password of your WiFi router
-const char* ssid = "SSID##";  //--> Your wifi name
-const char* password = "PASS##"; //--> Your wifi password
+const char* ssid = "SSID## ";  //--> Your wifi name
+const char* password = "PASS## "; //--> Your wifi password
 //----------------------------------------
 
 ESP8266WebServer server(80);  //--> Server on port 80
